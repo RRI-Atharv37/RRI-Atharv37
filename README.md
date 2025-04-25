@@ -15,7 +15,6 @@ I'm a developer skilled with a wide range of technologies and frameworks, from f
 - React, Next, Express, Tailwind, MongoDB
 
 ## 🌐 Socials
-- Email: dewangan.atharv@gmail.com
 - [Linkedin](https://in.linkedin.com/in/dewanganatharv)
 - [Instagram](https://www.instagram.com/itsatharv.lol)
 - [Youtube](https://www.youtube.com/@aatherf)
