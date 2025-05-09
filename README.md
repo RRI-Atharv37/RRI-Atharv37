@@ -36,6 +36,7 @@ I'm a developer skilled with a wide range of technologies and frameworks, from f
 ---
 
 ## 📊 GitHub Stats
+![GitHub followers](https://img.shields.io/github/followers/RRI-Atharv37)
 
 ![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=rri-atharv37&theme=neon&show_icons=true)
 
