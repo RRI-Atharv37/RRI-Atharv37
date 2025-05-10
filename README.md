@@ -12,8 +12,8 @@ I'm a developer skilled with a wide range of technologies and frameworks, from f
 
 ## 🛠 Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
@@ -38,9 +38,11 @@ I'm a developer skilled with a wide range of technologies and frameworks, from f
 ## 📊 GitHub Stats
 ![GitHub followers](https://img.shields.io/github/followers/RRI-Atharv37)
 
-![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=rri-atharv37&theme=neon&show_icons=true)
+![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=RRI-Atharv37&theme=neon&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rri-atharv37&theme=neon&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RRI-Atharv37&theme=neon&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RRI-Atharv37&theme=neon&show_icons=true)
 
 ---
 
