@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharv Dewangan</h1>
 
-I'm a developer skilled with a wide range of technologies and frameworks, from frontend design to backend logic. I experience with working in teams and coordinate well with others. My programming journey has been really fun and I've met amazing people and brought my skills to a whole new level. I'm also passionate about **cybersecurity**.
+I'm a full stack developer with a passion for cybersecurity, skilled with a wide range of technologies and frameworks, from frontend design to backend logic. I have experience with working in teams and coordinating with others. My programming journey has been really fun and I've met amazing people and brought my skills to a whole new level.
 
 ## Currently Building
 
