@@ -3,7 +3,7 @@
 <h2>
     <p align="center">
         <strong>Full Stack Developer & Computer Science Student</strong><br />
-        Passionate about software engineering, cybersecurity and building applications that matter
+        Passionate about software engineering, cybersecurity and developing projects that work
     </p>
 </h2>
 
