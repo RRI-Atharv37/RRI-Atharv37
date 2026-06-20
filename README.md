@@ -4,10 +4,16 @@
     <strong>Full Stack Developer & Computer Science Student</strong><br />
 Passionate about software engineering, cybersecurity and building applications that matter
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewanganatharv/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsatharv.lol)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aatherf)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/dewanganatharv/">
+   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+  <a href="(https://instagram.com/itsatharv.lol">
+   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
+  <a href="(https://youtube.com/@aatherf">
+   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+   </a>
 </p>
 
 ---
