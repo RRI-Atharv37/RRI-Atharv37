@@ -8,10 +8,10 @@ Passionate about software engineering, cybersecurity and building applications t
   <a href="https://www.linkedin.com/in/dewanganatharv/">
    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-  <a href="(https://instagram.com/itsatharv.lol">
+  <a href="https://instagram.com/itsatharv.lol">
    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
-  <a href="(https://youtube.com/@aatherf">
+  <a href="https://youtube.com/@aatherf">
    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
    </a>
 </p>
