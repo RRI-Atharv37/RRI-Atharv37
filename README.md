@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Atharv Dewangan</h1>
+<img width="2125" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/615d61eb-5e62-49e3-b463-2d2b6c15d97e" />
+
+<h1 align="center">ATHARV DEWANGAN</h1>
 
 <h2>
     <p align="center">
