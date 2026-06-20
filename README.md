@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atharv Dewangan</h1>
 
-<p align="center">
-    <strong>Full Stack Developer & Computer Science Student</strong><br />
-Passionate about software engineering, cybersecurity and building applications that matter
+<h5>
+    <p align="center">
+        <strong>Full Stack Developer & Computer Science Student</strong><br />
+        Passionate about software engineering, cybersecurity and building applications that matter
+    </p>
+</h5>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dewanganatharv/">
