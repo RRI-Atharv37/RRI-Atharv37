@@ -23,21 +23,49 @@
 
 ## Currently Building
 
-### [spndr](https://github.com/RRI-Atharv37/spndr) - a modern expense tracking and budgeting app for students and young adults.
+### [spndr](https://github.com/RRI-Atharv37/spndr) - a production-grade personal finance tracker with offline-first sync and a native desktop app.
 
-- react + mongo + tailwind css
+- full-stack TypeScript (Express/MongoDB backend + React/Vite/Tailwind frontend), npm workspaces monorepo
+- offline-first: local SQLite (WASM/OPFS in-browser, SQLCipher on desktop) with a bidirectional outbox/sync engine and conflict resolution
+- native desktop shell via Tauri v2 (Rust) sharing the same codebase, plus an installable PWA
+- workspace-based multi-tenancy with RBAC and row-level security enforced at the query layer
+- 1000+ automated tests (Vitest/Supertest/RTL), security-audited, shipped through internal alpha and private beta gates, now building toward public beta
 - open to feedback or collab contributions
 
-🤝🏻 I'm open to collaborating on interesting and fun projects
+## 💰 spndr — Skills Breakdown
 
----
+**Languages & Runtime**
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
 
-## Currently Learning
+**Backend**:
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![JWT](https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![AWS S3](https://img.shields.io/badge/-AWS_S3-black?style=for-the-badge&logo=amazonaws)
+![Sentry](https://img.shields.io/badge/-Sentry-black?style=for-the-badge&logo=sentry)
 
-### [CS50x](https://github.com/RRI-Atharv37/cs50x) - Harvard University’s introduction to computer science and the art of programming
+**Frontend**
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css)
+![React Router](https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=reactrouter)
 
-- computer science fundamentals, memory management, data structures, algorithms
-- actively tracking problem sets
+**Offline, Sync & Desktop**
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=sqlite)
+![Tauri](https://img.shields.io/badge/-Tauri-black?style=for-the-badge&logo=tauri)
+![PWA](https://img.shields.io/badge/-PWA-black?style=for-the-badge&logo=pwa)
+
+**Testing & Tooling**
+![Vitest](https://img.shields.io/badge/-Vitest-black?style=for-the-badge&logo=vitest)
+![Testing Library](https://img.shields.io/badge/-Testing_Library-black?style=for-the-badge&logo=testing-library)
+![ESLint](https://img.shields.io/badge/-ESLint-black?style=for-the-badge&logo=eslint)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+
+**Architecture & practices:** REST API design · JWT auth with refresh-token rotation · role-based access control (RBAC) & multi-tenant workspaces · custom row-level security (RLS) middleware · centralized error handling (typed `CustomError` + single error middleware) · offline-first sync (outbox pattern, checkpoint pagination, conflict resolution) · client-side encryption at rest (PBKDF2 + AES-GCM / SQLCipher) · test-driven development · CI/CD with dependency-audit gates · VitePress documentation site
 
 ---
 
@@ -57,17 +85,17 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css)
 
----
+<!-- --- -->
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
-![](https://komarev.com/ghpvc/?username=RRI-Atharv37&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/RRI-Atharv37)
+<!-- ![](https://komarev.com/ghpvc/?username=RRI-Atharv37&color=blueviolet) -->
+<!-- ![GitHub followers](https://img.shields.io/github/followers/RRI-Atharv37) -->
 
-![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=RRI-Atharv37&theme=neon&show_icons=true)
+<!-- ![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=RRI-Atharv37&theme=neon&show_icons=true) -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RRI-Atharv37&theme=neon&hide_border=false)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=RRI-Atharv37&theme=neon&hide_border=false) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RRI-Atharv37&theme=neon&show_icons=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RRI-Atharv37&theme=neon&show_icons=true) -->
 
-[![Atharv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RRI-Atharv37&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<!-- [![Atharv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RRI-Atharv37&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph) -->
