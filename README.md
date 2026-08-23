@@ -8,15 +8,19 @@
 </h2>
 
 <p align="center">
+  <a href="mailto:dewangan.atharv@gmail.com">
+   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
   <a href="https://www.linkedin.com/in/dewanganatharv/">
    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
   <a href="https://instagram.com/itsatharv.lol">
    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
-  <a href="https://youtube.com/@aatherf">
-   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://discord.gg/yyjEg9wTFa">
+   <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
    </a>
+
 </p>
 
 ---
@@ -32,9 +36,9 @@
 - 1000+ automated tests (Vitest/Supertest/RTL), security-audited, shipped through internal alpha and private beta gates, now building toward public beta
 - open to feedback or collab contributions
 
-## 💰 spndr — Skills Breakdown
+#### spndr - Skills Breakdown
 
-**Languages & Runtime**
+**Languages & Runtime**:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust)
@@ -47,43 +51,58 @@
 ![AWS S3](https://img.shields.io/badge/-AWS_S3-black?style=for-the-badge&logo=amazonaws)
 ![Sentry](https://img.shields.io/badge/-Sentry-black?style=for-the-badge&logo=sentry)
 
-**Frontend**
+**Frontend**:
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css)
 ![React Router](https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=reactrouter)
 
-**Offline, Sync & Desktop**
+**Offline, Sync & Desktop**:
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=sqlite)
 ![Tauri](https://img.shields.io/badge/-Tauri-black?style=for-the-badge&logo=tauri)
 ![PWA](https://img.shields.io/badge/-PWA-black?style=for-the-badge&logo=pwa)
 
-**Testing & Tooling**
+**Testing & Tooling**:
 ![Vitest](https://img.shields.io/badge/-Vitest-black?style=for-the-badge&logo=vitest)
 ![Testing Library](https://img.shields.io/badge/-Testing_Library-black?style=for-the-badge&logo=testing-library)
 ![ESLint](https://img.shields.io/badge/-ESLint-black?style=for-the-badge&logo=eslint)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=for-the-badge&logo=githubactions)
 
-**Architecture & practices:** REST API design · JWT auth with refresh-token rotation · role-based access control (RBAC) & multi-tenant workspaces · custom row-level security (RLS) middleware · centralized error handling (typed `CustomError` + single error middleware) · offline-first sync (outbox pattern, checkpoint pagination, conflict resolution) · client-side encryption at rest (PBKDF2 + AES-GCM / SQLCipher) · test-driven development · CI/CD with dependency-audit gates · VitePress documentation site
+**Architecture & Practices:** REST API design · JWT auth with refresh-token rotation · role-based access control (RBAC) & multi-tenant workspaces · custom row-level security (RLS) middleware · centralized error handling (typed `CustomError` + single error middleware) · offline-first sync (outbox pattern, checkpoint pagination, conflict resolution) · client-side encryption at rest (PBKDF2 + AES-GCM / SQLCipher) · test-driven development · CI/CD with dependency-audit gates · VitePress documentation site
 
 ---
 
 ## 🛠 Skills
 
+**Languages** </br>
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![C++](https://img.shields.io/badge/-C%2B%2B-black?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
+![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 
+**Frontend** </br>
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![Vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css)
+
+**Backend & Data** </br>
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=sqlite)
+
+**Desktop & Tooling** </br>
+![Tauri](https://img.shields.io/badge/-Tauri-black?style=for-the-badge&logo=tauri)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws)
 
 <!-- --- -->
 
