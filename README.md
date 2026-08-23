@@ -36,7 +36,7 @@
 - 1000+ automated tests (Vitest/Supertest/RTL), security-audited, shipped through internal alpha and private beta gates, now building toward public beta
 - open to feedback or collab contributions
 
-**Languages & Runtime used**:
+**Languages & Runtime**:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust)
