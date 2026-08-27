@@ -27,7 +27,7 @@
 
 ## Currently Building
 
-### [spndr](https://github.com/RRI-Atharv37/spndr) - a production-grade personal finance tracker with offline-first sync and a native desktop app.
+### [Corvale](https://github.com/RRI-Atharv37/corvale) - a production-grade personal finance tracker with offline-first sync and a native desktop app.
 
 - full-stack TypeScript (Express/MongoDB backend + React/Vite/Tailwind frontend), npm workspaces monorepo
 - offline-first: local SQLite (WASM/OPFS in-browser, SQLCipher on desktop) with a bidirectional outbox/sync engine and conflict resolution
